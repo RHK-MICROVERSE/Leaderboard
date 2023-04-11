@@ -4,7 +4,7 @@
 
   <img src="./images/RHK Trading Logo.png" alt="logo" width="140"  height="auto" />
   <br/>
-  <h3><b>Conference Project</b></h3>
+  <h3><b>Leaderboard</b></h3>
 </div>
 
 <h1>Capstone Project Module-1</h1>
@@ -33,46 +33,38 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Awesome Books <a name="about-project"></a>
+# 📖 Leaderboard <a name="about-project"></a>
 
-"Awesome books" is a simple website that displays a list of books and allows you to add and remove books from that list.
+"Leaderboard" is a simple Single Page Application that displays the scores of different paticipants and shows the  ranking of the Leader along with adding new participants.
 
 <!-- > Describe your project in 1 or 2 sentences. -->
-### How to build the "Awesome books" website
-- 1: Manage books collection (plain JS with objects).
-- 2: Manage books collection (plain JS with classes) and add basic CSS.
-- 3: Create a complete website with navigation.
+### How to build the "Leaderboard" website
+- 1. Use callbacks and promises.
+- 2. Learn how to use proper ES6 syntax.
+- 3. Use ES6 modules to write modular JavaScript.
+- 4. Use webpack to bundle JavaScript.
 
-Will start by building the core functionalities and ignoring how the website looks. At the very beginning the website will look similar to the UI below. Note that it is plain HTML with no styling, but it will allow to add and remove books from the list!
-
-<p align="center">
-  <img src="./images/awesome_books_basic_ui.png" alt="Basic UI" width="300px" />
-</p>
-
-Once have the code working, will play with refactoring it. In this step will also need to adhere to the layout presented in the wireframe, but i will choose the application's styling. So i initial ugly HTML will turn into something similar to this:
+Will start by building the core functionalities and ignoring how the SPA looks. At the very beginning the SPA will look similar to the UI below. Note that it is plain HTML with no styling, but it will allow to add new participants and also shows the ranks of the leader.
 
 <p align="center">
-  <img src="./images/awesome_books_core_elements.png" alt="Core elements" width="400px"  />
+  <img src="./images/Leaderboard.png" alt="Basic UI" width="300px" />
 </p>
 
-In the last step, will build a complete website with working navigation. When a user clicks on a link in the navigation bar, the content in the main section of the website changes (URL stays the same, though.) Again styling is my choice, but it is essential to adhere to the layout presented in the wireframe. my end result should look similar to this:
 
-<p align="center">
-  <img src="./images/awesome_books_full_website.png" alt="Full website" />
-</p>
-
-**Conference** is an Html,CSS&JavaScript-based project with the implementation of modules for JavaScript
+**Leaderboard** is an Html, CSS, & JavaScript-based project with the implementation of modules for JavaScript. It is a JavaScript project for the Leaderboard list app, using webpack and ES6 features, notably modules. I have developed a first working version of the app following a wireframe, but without styling - just focus on functionality
 
 # Responsive website for communities events and particpants details <a name="about-project"></a>
 This project is about creating a responsive website to showcase community event, activities and agenda. This is a implementation of SINGLE PAGE APPLICATION widely known as SPA.
 
 <!-- > Describe your project in 1 or 2 sentences. -->
-Awesome Books: mobile-first approach & responsive on desktop version and bigger size is the first capstone project in the process of experiences mimic real-world projects where we must apply what we learned throughout the entire Module, and are built with business specifications that will look really nice in our portfolio. This is a Single Page Application project where in a single page all elements are called through JavaScript Dynamic programming.
+Leaderboard: mobile-first approach & responsive on desktop version and bigger size is a capstone project in the process of experiences mimic real-world projects where we must apply what we learned throughout the entire Module, and are built with business specifications that will look really nice in our portfolio. This is a Single Page Application project where in a single page all elements are called through JavaScript Dynamic programming.
 
 ## 🛠 Walk through <a name="walk-through"></a>
 <ul>
-  <li><a href="https://github.com/microverseinc/curriculum-javascript/blob/main/books/m4_full_website_v1_1.md">See the Project Requirement</a></li>
+  <li><a href="https://github.com/microverseinc/curriculum-javascript/blob/main/leaderboard/m1_basic_structure.md">See the Project Requirement</a></li>
   <li>If required you should personalize the content of your page. Choose a topic that is different than the one in the original design</li>
+  <li><a href="https://github.com/microverseinc/curriculum-javascript/blob/main/leaderboard/lessons/lesson_async.md>">See guidelines and helping resources</a></li>
+</ul>
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -142,11 +134,11 @@ Awesome Books: mobile-first approach & responsive on desktop version and bigger 
 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-[Live Demo Link](https://rhk-microverse.github.io/book-awesome-module/)
+[Live Demo Link](https://rhk-microverse.github.io/leaderboard/)
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
-### Hi, there, I'm Rassel - aka [Full Stack Developer] [Check my portfolio](https://rhk-microverse.github.io/My-Portfolio/)
+### Hi, there, I'm Rassel - aka [Full Stack Developer] [Check my portfolio](https://rhk-microverse.github.io/Leaderboard/)
 
 To get a local copy up and running, follow these steps.
 
@@ -198,7 +190,7 @@ Run Github Actions Test
 
 ### Deployment
 
-This project is deployed at github pages you can clone it here. [Please click to clone](https://github.com/RHK-MICROVERSE/book-awesome-module)
+This project is deployed at github pages you can clone it here. [Please click to clone](https://github.com/RHK-MICROVERSE/Leaderboard)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -206,7 +198,6 @@ This project is deployed at github pages you can clone it here. [Please click to
 ## 👥 Authors <a name="Rassel Hassan Kadir"></a>
 - Main Author: **Rassel Hassan Kadir**
 > List of the collaborators of this project.
-[Joseph Ddiiro](https://github.com/Ddiiro)
   
 👤 **Rassel Hassan Kadir**
 
@@ -220,8 +211,8 @@ This project is deployed at github pages you can clone it here. [Please click to
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **Dynamic content.**
-- [ ] **Add functionality of Javascript**
-- [ ] **Will add some background **
+- [ ] **Add functionality of Javascript API**
+- [ ] **Will add some background and beautification**
 
 
 
@@ -229,7 +220,7 @@ This project is deployed at github pages you can clone it here. [Please click to
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/RHK-MICROVERSE/book-awesome-module/issues).
+Feel free to check the [issues page](https://github.com/RHK-MICROVERSE/Leaderboard/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -243,7 +234,7 @@ If you like this project give a star to this repositiory.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank the Microverse full-stack curriculum for the inspiration and guidance. Original design idea by Cindy Shin in Behance
+I would like to thank the Microverse full-stack curriculum for the inspiration and guidance. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
