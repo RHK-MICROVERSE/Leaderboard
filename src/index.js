@@ -9,7 +9,7 @@ rankRefreshButton.addEventListener('click', Ranks.displayRanks);
 userFormInput.addEventListener('submit', (e) => {
   e.preventDefault();
   const gameUser = document.getElementById('userName').value;
-  const gameUserScore = document.getElementById('userScore').value;  
+  const gameUserScore = document.getElementById('userScore').value;
   fetch('https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/Ba2iKDvSMzzZCyKRElz6/scores/', {
     method: 'POST',
     body: JSON.stringify({
