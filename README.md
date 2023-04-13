@@ -134,7 +134,7 @@ Leaderboard: mobile-first approach & responsive on desktop version and bigger si
 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-[Live Demo Link](https://rhk-microverse.github.io/leaderboard/)
+[Live Demo Link](https://rhk-microverse.github.io/Leaderboard/dist/)
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
