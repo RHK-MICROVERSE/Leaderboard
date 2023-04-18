@@ -138,7 +138,7 @@ Leaderboard: mobile-first approach & responsive on desktop version and bigger si
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
-### Hi, there, I'm Rassel - aka [Full Stack Developer] [Check my portfolio](https://rhk-microverse.github.io/Leaderboard/)
+### Hi, there, I'm Rassel - aka [Full Stack Developer] [Check my portfolio](https://rhk-microverse.github.io/rhk-portfolio/)
 
 To get a local copy up and running, follow these steps.
 
